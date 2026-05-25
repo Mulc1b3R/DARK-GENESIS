@@ -1,7 +1,3 @@
-# DARK-GENESIS
-
-# 📡 SECTION 23 TELEMETRY // ARCHIVE MANIFEST
-
 ## 💿 ALBUM: DARK GENESIS (THE 1996 ACID REMIXES)
 * **Operator Node:** Mojo (`@mojo-696`)
 * **Audio Blueprint:** 24-bit/48kHz PCM // Master Levelled to -14 LUFS Continuous Broadcast
@@ -41,3 +37,5 @@ By dropping historical time stamps, dystopian cinema intercepts, and regional ag
 
 ## 🛠️ VISUAL EXECUTION MANIFEST
 The video companion was built using a custom Python pipeline, running a universal file-extension scanner to process highly saturated neon flyers, anti-recruitment posters, and surveillance grids. Through automated YCrCb color-field merging and horizontal slit-scan fractures, the graphics mimic a corrupted, illegal pirate television signal hijacking the airwaves.
+
+# 📡 SECTION 23 TELEMETRY // ARCHIVE MANIFEST
